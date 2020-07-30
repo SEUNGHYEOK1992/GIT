@@ -11,10 +11,12 @@
 	Hello world!!
 	COMMIT 3
 	COMMIT 4
-<<<<<<< HEAD
 	COMMIT 5
-=======
 	<footer>푸터 추가</footer>
->>>>>>> 신규개발
+
 </body>
+<script>
+	console.log('hello vs-code');
+</script>
+
 </html>
